@@ -1,0 +1,5 @@
+{
+  "name": "DermAI - Skin Lesion Analysis",
+  "description": "AI-powered skin lesion analysis, longitudinal tracking, and secure referral workflow for dermatologists.",
+  "requestFramePermissions": []
+}
