@@ -85,7 +85,7 @@ Format the response in Markdown. Be professional, objective, and detailed.
 
   const ai = getAI();
   const response = await ai.models.generateContent({
-    model: "gemini-3.1-pro-preview",
+    model: "gemini-3.1-flash-lite-preview",
     contents: { parts },
   });
 
